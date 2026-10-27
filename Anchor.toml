@@ -1,0 +1,9 @@
+[toolchain]
+anchor_version = "0.31.1"
+
+[programs.mainnet]
+bouncer_hook = "6hUrf1bng8fQb5Vijp765poBYVNJFTPJ514nfeYYSByR"
+
+[provider]
+cluster = "mainnet"
+wallet = "~/.config/solana/id.json"
